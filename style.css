@@ -1,0 +1,21 @@
+/*
+Theme Name: ORU Store
+Theme URI: https://oru.lt
+Author: ORU Team
+Description: Custom React-based theme for ORU online store.
+Version: 1.0.0
+Requires at least: 6.0
+Requires PHP: 7.4
+License: MIT
+Text Domain: oru-store
+*/
+
+/* 
+  NOTE: This file is strictly for WordPress to recognize the theme.
+  DO NOT add "Template:" here unless this is a child theme.
+  Since this is a custom standalone React theme, it needs its own index.php instead.
+*/
+
+body {
+    background-color: #f0fdf4;
+}
